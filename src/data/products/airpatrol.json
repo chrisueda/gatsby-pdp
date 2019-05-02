@@ -1,0 +1,1028 @@
+{
+  "vid": "17254",
+  "uid": "1",
+  "title": "air patrol ",
+  "log": "Edited by 2000517671.",
+  "status": "1",
+  "comment": "0",
+  "promote": "0",
+  "sticky": "0",
+  "vuuid": "d04884b6-dd91-467d-9522-561a047746ae",
+  "nid": 1007,
+  "type": "parent_product_name",
+  "language": "und",
+  "created": "1442024878",
+  "changed": "1554840001",
+  "tnid": "0",
+  "translate": "0",
+  "template_override": null,
+  "uuid": "2083e714-13d2-4fb3-9741-fadd29c090e8",
+  "revision_timestamp": "1554840001",
+  "revision_uid": "1",
+  "field_base_product_keywords": {
+    "und": [
+      {
+        "tid": "4416"
+      },
+      {
+        "tid": "4477"
+      },
+      {
+        "tid": "4418"
+      },
+      {
+        "tid": "4443"
+      },
+      {
+        "tid": "4515"
+      },
+      {
+        "tid": "4570"
+      },
+      {
+        "tid": "4502"
+      }
+    ]
+  },
+  "field_bv_average_overall_rating": {
+    "und": [
+      {
+        "value": "4.38000"
+      }
+    ]
+  },
+  "field_category_rank": {
+    "und": [
+      {
+        "value": "0"
+      }
+    ]
+  },
+  "field_child_skus": {
+    "und": [
+      {
+        "target_id": "1333"
+      }
+    ]
+  },
+  "field_collection": {
+    "und": [
+      {
+        "tid": "685"
+      }
+    ]
+  },
+  "field_dilemma": [],
+  "field_hidden": {
+    "und": [
+      {
+        "value": "No"
+      }
+    ]
+  },
+  "field_how_to_use": {
+    "und": [
+      {
+        "value": "<p>No unflattering goggles necessary! Defend your precious peepers from daily attack with <strong>air patrol</strong>. Just twist base once and wait until a tiny amount appears on CushionCalm™ tip. Gently massage onto eyelid with the CushionCalm™ tip to evenly blend. Let set, apply eyeshadow and tell your primer to stand watch.</p>\r\n",
+        "format": "full_html"
+      }
+    ]
+  },
+  "field_image": {
+    "und": [
+      {
+        "fid": "9462",
+        "uid": "1",
+        "filename": "air-patrol-component3.png",
+        "uri": "air-patrol-hero.png",
+        "filemime": "image/png",
+        "filesize": "208520",
+        "status": "1",
+        "timestamp": "1442451899",
+        "origname": "air-patrol-component_3.png",
+        "type": "image",
+        "uuid": "41a9e86f-c8be-4bee-8987-009e7a227038",
+        "field_file_image_alt_text": {
+          "en": [
+            {
+              "value": "A BB cream for eyes to protect your peepers from environmental stress",
+              "format": null,
+              "safe_value": "A BB cream for eyes to protect your peepers from environmental stress"
+            }
+          ]
+        },
+        "field_file_image_title_text": [],
+        "metatags": [],
+        "translations": {
+          "original": "en",
+          "data": {
+            "en": {
+              "entity_type": "file",
+              "entity_id": "9462",
+              "revision_id": "9462",
+              "language": "en",
+              "source": "",
+              "uid": "0",
+              "status": "1",
+              "translate": "0",
+              "created": "1450818028",
+              "changed": "1450818028"
+            }
+          },
+          "#node_export_object": "1"
+        },
+        "metadata": {
+          "height": 900,
+          "width": 800
+        },
+        "alt": "A BB cream for eyes to protect your peepers from environmental stress",
+        "title": "",
+        "height": "900",
+        "width": "800"
+      }
+    ]
+  },
+  "field_include_in_html_sitemap": {
+    "und": [
+      {
+        "value": "1"
+      }
+    ]
+  },
+  "field_ingredients": {
+    "und": [
+      {
+        "value": "<p>Ingredients: Aqua (Water), Isododecane, Ethylhexyl Methoxycinnamate, Glycerin, PEG-9 Polydimethylsiloxyethyl Dimethicone, Polysilicone-11, Methyl Trimethicone, Titanium Dioxide, Pentylene Glycol, Silica, Acrylates/Dimethicone Copolymer, Glyceryl Undecyl Dimethicone, Phenoxyethanol, Albizia Julibrissin Bark Extract, Dimethicone, Disteardimonium Hectorite, Aluminum Hydroxide, Stearic Acid, Butylene Glycol, Sodium Myristoyl Glutamate, Dipotassium Glycyrrhizate, Propylene Carbonate, Butyrospermum Parkii (Shea) Seedcake Extract, BHT, Sodium Benzoate, Siegesbeckia Orientalis Extract. [+/-: CI 77163 (Bismuth Oxychloride), CI 77491, CI 77492, CI 77499 (Iron Oxides), CI 77891 (Titanium Dioxide)]. N° 9467/A</p>\r\n",
+        "format": "filtered_html",
+        "safe_value": "<p>Ingredients: Aqua (Water), Isododecane, Ethylhexyl Methoxycinnamate, Glycerin, PEG-9 Polydimethylsiloxyethyl Dimethicone, Polysilicone-11, Methyl Trimethicone, Titanium Dioxide, Pentylene Glycol, Silica, Acrylates/Dimethicone Copolymer, Glyceryl Undecyl Dimethicone, Phenoxyethanol, Albizia Julibrissin Bark Extract, Dimethicone, Disteardimonium Hectorite, Aluminum Hydroxide, Stearic Acid, Butylene Glycol, Sodium Myristoyl Glutamate, Dipotassium Glycyrrhizate, Propylene Carbonate, Butyrospermum Parkii (Shea) Seedcake Extract, BHT, Sodium Benzoate, Siegesbeckia Orientalis Extract. [+/-: CI 77163 (Bismuth Oxychloride), CI 77491, CI 77492, CI 77499 (Iron Oxides), CI 77891 (Titanium Dioxide)]. N° 9467/A</p>\n"
+      }
+    ]
+  },
+  "field_max_order_quantity": [],
+  "field_parent_product_code": {
+    "und": [
+      {
+        "value": "AIRPAEC06US",
+        "format": null,
+        "safe_value": "AIRPAEC06US"
+      }
+    ]
+  },
+  "field_primary_categories": [],
+  "field_product_description": {
+    "und": [
+      {
+        "value": "<p>Air patrol BB cream eyelid primer with broad-spectrum SPF 20 contains EnviroDefend complex known to help guard your delicate eyelids against sun, smoke and pollutants. It also extends the wear of eyeshadow for long-lasting color that won’t crease, fade or smear.* The CushionCalm™ tip is stress-free, pressure-free…softer than your pinkie!</p>\r\n\r\n<ul>\r\n\t<li>93% said it feels calming &amp; soothing*</li>\r\n\t<li>94% said it relieves dryness*</li>\r\n\t<li>91% said it extends the wear of eyeshadow*</li>\r\n</ul>\r\n\r\n<p>*consumer panel survey on 70 women after 1 week.</p>\r\n",
+        "format": "full_html"
+      }
+    ]
+  },
+  "field_product_details": {
+    "und": [
+      {
+        "value": "<p>4 mL / 0.13 fl oz.</p>\r\n",
+        "format": "full_html"
+      }
+    ]
+  },
+  "field_seo_name": {
+    "und": [
+      {
+        "value": "air-patrol",
+        "format": "plain_text",
+        "safe_value": "<p>air-patrol</p>\n"
+      }
+    ]
+  },
+  "field_statement_of_id": {
+    "und": [
+      {
+        "value": "BB cream eyelid primer",
+        "format": "plain_text",
+        "safe_value": "<p>BB cream eyelid primer</p>\n"
+      }
+    ]
+  },
+  "field_tips": {
+    "und": [
+      {
+        "value": "<p>Go it alone!&nbsp;The special shade corrects any skintone.</p>\r\n",
+        "format": "full_html"
+      }
+    ]
+  },
+  "field_coming_soon_date": {
+    "und": [
+      {
+        "value": "2015-09-05 00:00:00",
+        "timezone": "America/New_York",
+        "timezone_db": "America/New_York",
+        "date_type": "datetime"
+      }
+    ]
+  },
+  "field_discontinued": {
+    "und": [
+      {
+        "value": "0"
+      }
+    ]
+  },
+  "field_stock_level": {
+    "und": [
+      {
+        "value": "10"
+      }
+    ]
+  },
+  "field_hazmat": [],
+  "field_original_price": {
+    "und": [
+      {
+        "value": "29.00"
+      }
+    ]
+  },
+  "field_product_boxcomp_image": {
+    "und": [
+      {
+        "fid": "4781",
+        "uid": "1",
+        "filename": "air-patrol-hero.png",
+        "uri": "air-patrol-hero.png",
+        "filemime": "image/png",
+        "filesize": "1071176",
+        "status": "1",
+        "timestamp": "1442024878",
+        "origname": "air-patrol-hero.png",
+        "type": "image",
+        "uuid": "b55c1cc9-d565-4bfe-8c9c-6db063779c26",
+        "field_file_image_alt_text": [],
+        "field_file_image_title_text": [],
+        "metatags": [],
+        "translations": {
+          "original": null,
+          "data": [],
+          "#node_export_object": "1"
+        },
+        "metadata": {
+          "height": 1380,
+          "width": 1220
+        },
+        "alt": "",
+        "title": "",
+        "height": "1380",
+        "width": "1220"
+      }
+    ]
+  },
+  "field_product_component_image": {
+    "und": [
+      {
+        "fid": "4780",
+        "uid": "1",
+        "filename": "air-patrol-component.png",
+        "uri": "air-patrol-component.png",
+        "filemime": "image/png",
+        "filesize": "208520",
+        "status": "1",
+        "timestamp": "1442451918",
+        "origname": "air-patrol-component.png",
+        "type": "image",
+        "uuid": "a6a5838d-9695-45fb-acb5-f0239ddb972f",
+        "field_file_image_alt_text": {
+          "en": [
+            {
+              "value": "A BB cream for eyes to protect your peepers from environmental stress",
+              "format": null,
+              "safe_value": "A BB cream for eyes to protect your peepers from environmental stress"
+            }
+          ]
+        },
+        "field_file_image_title_text": [],
+        "metatags": [],
+        "translations": {
+          "original": "en",
+          "data": {
+            "en": {
+              "entity_type": "file",
+              "entity_id": "4780",
+              "revision_id": "4780",
+              "language": "en",
+              "source": "",
+              "uid": "0",
+              "status": "1",
+              "translate": "0",
+              "created": "1450818028",
+              "changed": "1450818028"
+            }
+          },
+          "#node_export_object": "1"
+        },
+        "metadata": {
+          "height": 900,
+          "width": 800
+        },
+        "alt": "A BB cream for eyes to protect your peepers from environmental stress",
+        "title": "",
+        "height": "900",
+        "width": "800"
+      }
+    ]
+  },
+  "field_product_description_title": {
+    "und": [
+      {
+        "value": "Safe-eye keeping!",
+        "format": null,
+        "safe_value": "Safe-eye keeping!"
+      }
+    ]
+  },
+  "field_product_or_service": {
+    "und": [
+      {
+        "value": "0"
+      }
+    ]
+  },
+  "field_service_price_range": [],
+  "field_tax_id": [],
+  "field_upc": [],
+  "field_variation": [],
+  "field_background_image": {
+    "und": [
+      {
+        "fid": "4293",
+        "uid": "1",
+        "filename": "bg-pattern-bigstripes-blue.gif",
+        "uri": "bg-pattern-bigstripes-blue.gif",
+        "filemime": "image/gif",
+        "filesize": "1447",
+        "status": "1",
+        "timestamp": "1442024878",
+        "origname": "bg-pattern-bigstripes-blue.gif",
+        "type": "image",
+        "uuid": "7e7b394c-03e2-4993-9b61-4e8de08e40f8",
+        "field_file_image_alt_text": [],
+        "field_file_image_title_text": [],
+        "metatags": [],
+        "translations": {
+          "original": null,
+          "data": [],
+          "#node_export_object": "1"
+        },
+        "metadata": {
+          "height": 60,
+          "width": 60
+        },
+        "alt": "",
+        "title": "",
+        "height": "60",
+        "width": "60"
+      }
+    ]
+  },
+  "field_bestseller": {
+    "und": [
+      {
+        "value": "1"
+      }
+    ]
+  },
+  "field_discontinued_rec": [],
+  "field_how_to_apply_title": {
+    "und": [
+      {
+        "value": "Defend eyelids from unfriendly skies! ",
+        "format": null,
+        "safe_value": "Defend eyelids from unfriendly skies! "
+      }
+    ]
+  },
+  "field_up_sell_sku_r": [],
+  "field_video": {
+    "und": [
+      {
+        "fid": "9463",
+        "uid": "1",
+        "filename": "Introducing Air Patrol: Benefit's BB Eyelid Primer",
+        "uri": "youtube://v/IF8tzgZB6LM",
+        "filemime": "video/youtube",
+        "filesize": "0",
+        "status": "1",
+        "timestamp": "1442024878",
+        "origname": "Introducing Air Patrol: Benefit's BB Eyelid Primer",
+        "type": "video",
+        "uuid": "62ccad6e-88e4-4ead-a3b4-b065eb781a6d",
+        "metatags": [],
+        "translations": {
+          "original": null,
+          "data": [],
+          "#node_export_object": "1"
+        },
+        "metadata": [],
+        "alt": "",
+        "title": "",
+        "display": "1",
+        "description": ""
+      }
+    ]
+  },
+  "field_wwl_carousel_1": {
+    "und": [
+      {
+        "fid": "6324",
+        "uid": "1",
+        "filename": "air-patrol-whyweloveit-3.jpg",
+        "uri": "air-patrol-whyweloveit-3.jpg",
+        "filemime": "image/jpeg",
+        "filesize": "484255",
+        "status": "1",
+        "timestamp": "1442027719",
+        "origname": "air-patrol-whyweloveit-3.jpg",
+        "type": "image",
+        "uuid": "4faf541b-67ae-40e7-be9d-23bef152f950",
+        "field_file_image_alt_text": [],
+        "field_file_image_title_text": [],
+        "metatags": [],
+        "translations": {
+          "original": null,
+          "data": [],
+          "#node_export_object": "1"
+        },
+        "metadata": {
+          "height": 1150,
+          "width": 1224
+        },
+        "alt": "",
+        "title": "",
+        "height": "1150",
+        "width": "1224"
+      },
+      {
+        "fid": "6322",
+        "uid": "1",
+        "filename": "air-patrol-whyweloveit-1.jpg",
+        "uri": "air-patrol-whyweloveit-1.jpg",
+        "filemime": "image/jpeg",
+        "filesize": "508520",
+        "status": "1",
+        "timestamp": "1442027719",
+        "origname": "air-patrol-whyweloveit-1.jpg",
+        "type": "image",
+        "uuid": "107422b4-5769-498e-99de-ea897c7e0e9e",
+        "field_file_image_alt_text": [],
+        "field_file_image_title_text": [],
+        "metatags": [],
+        "translations": {
+          "original": null,
+          "data": [],
+          "#node_export_object": "1"
+        },
+        "metadata": {
+          "height": 1150,
+          "width": 1224
+        },
+        "alt": "",
+        "title": "",
+        "height": "1150",
+        "width": "1224"
+      },
+      {
+        "fid": "6323",
+        "uid": "1",
+        "filename": "air-patrol-whyweloveit-2.jpg",
+        "uri": "air-patrol-whyweloveit-2.jpg",
+        "filemime": "image/jpeg",
+        "filesize": "359026",
+        "status": "1",
+        "timestamp": "1442027719",
+        "origname": "air-patrol-whyweloveit-2.jpg",
+        "type": "image",
+        "uuid": "799b6ae7-f6a9-4c46-89eb-643d6801d972",
+        "field_file_image_alt_text": [],
+        "field_file_image_title_text": [],
+        "metatags": [],
+        "translations": {
+          "original": null,
+          "data": [],
+          "#node_export_object": "1"
+        },
+        "metadata": {
+          "height": 1150,
+          "width": 1224
+        },
+        "alt": "",
+        "title": "",
+        "height": "1150",
+        "width": "1224"
+      }
+    ]
+  },
+  "field_chute_hashtag": [],
+  "field_dilemma_copy": [],
+  "field_dilemma_product_image": [],
+  "field_how_to_apply_model": {
+    "und": [
+      {
+        "fid": "9848",
+        "uid": "350",
+        "filename": "air-patrol-model.png",
+        "uri": "air-patrol-model_0.png",
+        "filemime": "image/png",
+        "filesize": "194651",
+        "status": "1",
+        "timestamp": "1442862096",
+        "origname": "air-patrol-model.png",
+        "type": "image",
+        "uuid": "ee6c8693-bcdd-4fb5-88c9-ac30be558ca7",
+        "field_file_image_alt_text": {
+          "en": [
+            {
+              "value": "air patrol BB cream eyelid primer model",
+              "format": null,
+              "safe_value": "air patrol BB cream eyelid primer model"
+            }
+          ]
+        },
+        "field_file_image_title_text": [],
+        "metatags": [],
+        "translations": {
+          "original": "en",
+          "data": {
+            "en": {
+              "entity_type": "file",
+              "entity_id": "9848",
+              "revision_id": "9848",
+              "language": "en",
+              "source": "",
+              "uid": "0",
+              "status": "1",
+              "translate": "0",
+              "created": "1450818028",
+              "changed": "1450818028"
+            }
+          },
+          "#node_export_object": "1"
+        },
+        "metadata": {
+          "height": 785,
+          "width": 925
+        },
+        "alt": "air patrol BB cream eyelid primer model",
+        "title": "",
+        "height": "785",
+        "width": "925"
+      }
+    ]
+  },
+  "field_product_awards_text": {
+    "und": [
+      {
+        "value": "<ul>\r\n\t<li>Oprah Magazine's Beauty O-Ward</li>\r\n\t<li>Nylon Magazine Beauty Award</li>\r\n\t<li>Ok! Magazine's Fall Beauty Award</li>\r\n</ul>\r\n",
+        "format": "filtered_html",
+        "safe_value": "<ul>\n<li>Oprah Magazine's Beauty O-Ward</li>\n<li>Nylon Magazine Beauty Award</li>\n<li>Ok! Magazine's Fall Beauty Award</li>\n</ul>\n"
+      }
+    ]
+  },
+  "field_tt_cta": {
+    "und": [
+      {
+        "url": "https://www.youtube.com/watch?v=IF8tzgZB6LM",
+        "title": "Tips & Tricks",
+        "attributes": []
+      }
+    ]
+  },
+  "title_field": {
+    "und": [
+      {
+        "value": "air patrol ",
+        "format": null,
+        "safe_value": "air patrol "
+      }
+    ]
+  },
+  "field_product_type": {
+    "und": [
+      {
+        "value": "1"
+      }
+    ]
+  },
+  "field_badges": {
+    "und": [
+      {
+        "tid": "696"
+      }
+    ]
+  },
+  "field_dilemma_solver": [],
+  "field_get_serviced_description": [],
+  "field_product_variance_type": {
+    "und": [
+      {
+        "value": "Product"
+      }
+    ]
+  },
+  "field_number_of_reviews": {
+    "und": [
+      {
+        "value": "13"
+      }
+    ]
+  },
+  "field_shade": [],
+  "field_color": [],
+  "field_tt_video_description": {
+    "und": [
+      {
+        "value": "Benefit's Air Patrol BB cream eyelid primer with broad-spectrum SPF 20 helps guard your delicate eyelids against sun, smoke and pollutants. It also extends the wear of eyeshadow for long-lasting color that won’t crease, fade or smear.* \n\n93% said it feels calming & soothing*\n94% said it relieves dryness*\n91% said it extends the wear of eyeshadow*\n*consumer panel survey on 70 women after 1 week.\n \nAvailable on 9/1! \nhttp://bit.ly/introtoairpatrol \n\n\nhttp://www.benefitcosmetics.com\n\nSubscribe for more Tips & Tricks: http://bit.ly/Utd37q\n\nView in HD!",
+        "format": null,
+        "safe_value": "Benefit&#039;s Air Patrol BB cream eyelid primer with broad-spectrum SPF 20 helps guard your delicate eyelids against sun, smoke and pollutants. It also extends the wear of eyeshadow for long-lasting color that won’t crease, fade or smear.* \n\n93% said it feels calming &amp; soothing*\n94% said it relieves dryness*\n91% said it extends the wear of eyeshadow*\n*consumer panel survey on 70 women after 1 week.\n \nAvailable on 9/1! \nhttp://bit.ly/introtoairpatrol \n\n\nhttp://www.benefitcosmetics.com\n\nSubscribe for more Tips &amp; Tricks: http://bit.ly/Utd37q\n\nView in HD!"
+      }
+    ]
+  },
+  "field_tt_video_title": {
+    "und": [
+      {
+        "value": "Introducing Air Patrol: Benefit's BB Eyelid Primer",
+        "format": null,
+        "safe_value": "Introducing Air Patrol: Benefit&#039;s BB Eyelid Primer"
+      }
+    ]
+  },
+  "field_cross_sell_codes": {
+    "und": [
+      {
+        "value": "ITSPOTFF71",
+        "format": null,
+        "safe_value": "ITSPOTFF71"
+      },
+      {
+        "value": "PUFFOEM07",
+        "format": null,
+        "safe_value": "PUFFOEM07"
+      },
+      {
+        "value": "FAKEUP",
+        "format": null,
+        "safe_value": "FAKEUP"
+      },
+      {
+        "value": "TARMASCARA",
+        "format": null,
+        "safe_value": "TARMASCARA"
+      },
+      {
+        "value": "FOOLP",
+        "format": null,
+        "safe_value": "FOOLP"
+      },
+      {
+        "value": "INSTABC15",
+        "format": null,
+        "safe_value": "INSTABC15"
+      }
+    ]
+  },
+  "field_banner_text": [],
+  "field_brow_dilemma": [],
+  "field_brow_style": [],
+  "field_html": [],
+  "field_image1": [],
+  "field_tutorial_steps": [],
+  "field_generic_video": [],
+  "field_play_button": {
+    "und": [
+      {
+        "value": "0"
+      }
+    ]
+  },
+  "field_product_tutorial_fpp": [],
+  "field_thumbnail": [],
+  "field_discontinued_callout_copy": [],
+  "field_3play_video_id": [],
+  "field_desktop_copy": [],
+  "field_parent_product": [],
+  "field_promo_mod_background_color": [],
+  "field_promo_mod_description": [],
+  "field_promo_mod_image": [],
+  "field_images_multiple": [],
+  "title_original": "air patrol ",
+  "entity_translation_handler_id": "node-parent_product_name-eid-1007",
+  "translations": {
+    "original": "und",
+    "data": {
+      "und": {
+        "entity_type": "node",
+        "entity_id": "1007",
+        "revision_id": "17254",
+        "language": "und",
+        "source": "",
+        "uid": "1",
+        "status": "1",
+        "translate": "0",
+        "created": "1442024878",
+        "changed": "1543011685"
+      }
+    },
+    "#node_export_object": "1"
+  },
+  "metatags": {
+    "und": {
+      "title": {
+        "value": "air patrol | Benefit Cosmetics"
+      },
+      "description": {
+        "value": "Air patrol BB cream eyelid primer guards your delicate eyelids. Shop the official Benefit site for free shipping & offers."
+      },
+      "keywords": {
+        "value": "bb cream for eyes"
+      },
+      "news_keywords": {
+        "value": "what's new, eyes, eye primer"
+      }
+    },
+    "title": {
+      "value": "air patrol | Benefit Cosmetics"
+    },
+    "keywords": {
+      "value": "bb cream for eyes"
+    },
+    "description": {
+      "value": "Air patrol BB cream eyelid primer guards your delicate eyelids. Shop the official Benefit site for free shipping & offers."
+    },
+    "news_keywords": {
+      "value": "what's new, eyes, eye primer"
+    }
+  },
+  "panelizer": {
+    "page_manager": {
+      "entity_type": "node",
+      "entity_id": "1007",
+      "revision_id": "17254",
+      "view_mode": "page_manager",
+      "did": "5876",
+      "name": null,
+      "css_id": "",
+      "css_class": "",
+      "css": "",
+      "no_blocks": "0",
+      "title_element": "H2",
+      "link_to_entity": "1",
+      "extra": [],
+      "pipeline": "ipe",
+      "contexts": [],
+      "relationships": [],
+      "display": {
+        "args": [],
+        "content": {
+          "70460": {
+            "pid": "70460",
+            "did": "5876",
+            "panel": "center",
+            "type": "pdp_hero",
+            "subtype": "pdp_hero",
+            "shown": "1",
+            "access": [],
+            "configuration": {
+              "admin_title": "",
+              "context": "panelizer"
+            },
+            "cache": [],
+            "style": {
+              "settings": null
+            },
+            "css": [],
+            "extras": [],
+            "position": "0",
+            "locks": [],
+            "uuid": "298ef9ed-002d-4bd6-86e2-ce19c31c4417",
+            "#node_export_object": "1"
+          },
+          "70461": {
+            "pid": "70461",
+            "did": "5876",
+            "panel": "region_2",
+            "type": "node_content",
+            "subtype": "node_content",
+            "shown": "1",
+            "access": [],
+            "configuration": {
+              "links": 0,
+              "no_extras": 1,
+              "override_title": 1,
+              "override_title_text": "",
+              "identifier": "",
+              "link": 0,
+              "leave_node_title": 1,
+              "build_mode": "pdp_product_detail",
+              "context": "panelizer",
+              "override_title_heading": "h2"
+            },
+            "cache": [],
+            "style": {
+              "settings": null
+            },
+            "css": [],
+            "extras": [],
+            "position": "0",
+            "locks": [],
+            "uuid": "7c7d441d-1536-4182-b4c3-7e1ade02dee3",
+            "#node_export_object": "1"
+          },
+          "70462": {
+            "pid": "70462",
+            "did": "5876",
+            "panel": "region_3",
+            "type": "node_content",
+            "subtype": "node_content",
+            "shown": "1",
+            "access": [],
+            "configuration": {
+              "links": 1,
+              "no_extras": 1,
+              "override_title": 1,
+              "override_title_text": "",
+              "identifier": "",
+              "link": 1,
+              "leave_node_title": 1,
+              "build_mode": "pdp_how_to_apply",
+              "context": "panelizer",
+              "override_title_heading": "h2"
+            },
+            "cache": [],
+            "style": {
+              "settings": null
+            },
+            "css": [],
+            "extras": [],
+            "position": "0",
+            "locks": [],
+            "uuid": "b43104ab-88d1-40eb-bd19-2f2858d818df",
+            "#node_export_object": "1"
+          },
+          "70463": {
+            "pid": "70463",
+            "did": "5876",
+            "panel": "region_4",
+            "type": "entity_field",
+            "subtype": "node:field_cross_sell_codes",
+            "shown": "1",
+            "access": [],
+            "configuration": {
+              "label": "hidden",
+              "formatter": "bc_product_node_from_code",
+              "delta_limit": "0",
+              "delta_offset": "0",
+              "delta_reversed": 0,
+              "formatter_settings": {
+                "link": 0,
+                "view_mode": "product_small",
+                "links": 1
+              },
+              "context": "panelizer",
+              "override_title": 1,
+              "override_title_text": "Complete Your Look",
+              "override_title_heading": "h2"
+            },
+            "cache": [],
+            "style": {
+              "settings": null
+            },
+            "css": [],
+            "extras": [],
+            "position": "0",
+            "locks": [],
+            "uuid": "31d96034-a307-4b26-a4a7-38eb1dec589c",
+            "#node_export_object": "1"
+          },
+          "70464": {
+            "pid": "70464",
+            "did": "5876",
+            "panel": "reviews_and_questions",
+            "type": "product_ugc",
+            "subtype": "product_ugc",
+            "shown": "1",
+            "access": [],
+            "configuration": [],
+            "cache": [],
+            "style": {
+              "settings": null
+            },
+            "css": [],
+            "extras": [],
+            "position": "0",
+            "locks": [],
+            "uuid": "1616b686-909a-4080-b967-7edc2173a81d",
+            "#node_export_object": "1"
+          },
+          "70465": {
+            "pid": "70465",
+            "did": "5876",
+            "panel": "ugc_content",
+            "type": "chute_ugc_gallery",
+            "subtype": "chute_ugc_gallery",
+            "shown": "1",
+            "access": [],
+            "configuration": {
+              "admin_title": "",
+              "gallery_title": "",
+              "gallery_body_text": {
+                "value": "",
+                "format": "full_html"
+              },
+              "gallery_terms": {
+                "value": "",
+                "format": "full_html"
+              },
+              "gallery_background_img": 0,
+              "hashtag": "",
+              "gallery": "auN1amhq",
+              "per_page": "6"
+            },
+            "cache": [],
+            "style": {
+              "settings": null
+            },
+            "css": [],
+            "extras": [],
+            "position": "0",
+            "locks": [],
+            "uuid": "bb1a1257-8bfc-443a-b765-a7c83c83e6f7",
+            "#node_export_object": "1"
+          }
+        },
+        "panels": {
+          "center": [
+            "70460"
+          ],
+          "region_2": [
+            "70461"
+          ],
+          "region_3": [
+            "70462"
+          ],
+          "region_4": [
+            "70463"
+          ],
+          "reviews_and_questions": [
+            "70464"
+          ],
+          "ugc_content": [
+            "70465"
+          ]
+        },
+        "incoming_content": null,
+        "css_id": null,
+        "context": [],
+        "did": "5876",
+        "renderer": "standard",
+        "layout": "flexible:product_display",
+        "layout_settings": [],
+        "panel_settings": {
+          "style_settings": {
+            "default": null,
+            "center": null,
+            "page_bottom": null,
+            "details_left": null,
+            "image_deck": null,
+            "region_2": null,
+            "region_3": null,
+            "region_4": null,
+            "media_module": null,
+            "ugc_content": null,
+            "reviews_and_questions": null
+          }
+        },
+        "cache": [],
+        "title": "%node:title",
+        "hide_title": "1",
+        "title_pane": "0",
+        "uuid": "7fea2c77-0a8f-4c05-b37c-b277a64e4494",
+        "storage_type": "panelizer_entity",
+        "storage_id": "node:1007:page_manager",
+        "#node_export_object": "1"
+      },
+      "#node_export_object": "1"
+    }
+  },
+  "name": "rosie",
+  "picture": "0",
+  "data": "a:6:{s:7:\"contact\";i:1;s:16:\"ckeditor_default\";s:1:\"t\";s:20:\"ckeditor_show_toggle\";s:1:\"t\";s:14:\"ckeditor_width\";s:4:\"100%\";s:13:\"ckeditor_lang\";s:2:\"en\";s:18:\"ckeditor_auto_lang\";s:1:\"t\";}",
+  "path": {
+    "pid": "199891",
+    "source": "node/1007",
+    "alias": "product/air-patrol",
+    "language": "und"
+  },
+  "menu": null,
+  "node_export_drupal_version": "7",
+  "workbench_moderation_state_current": "published",
+  "workbench_moderation_state_new": "published",
+  "#node_export_object": "1"
+}

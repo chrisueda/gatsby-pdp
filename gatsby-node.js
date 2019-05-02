@@ -1,7 +1,64 @@
-/**
- * Implement Gatsby's Node APIs in this file.
- *
- * See: https://www.gatsbyjs.org/docs/node-apis/
- */
+const _ = require(`lodash`)
+const path = require(`path`)
+const slug = require(`slug`)
+const slash = require(`slash`)
 
-// You can delete this file if you're not using it
+// Implement the Gatsby API “createPages”. This is
+// called after the Gatsby bootstrap is finished so you have
+// access to any information necessary to programmatically
+// create pages.
+exports.createPages = ({ graphql, actions }) => {
+  const { createPage } = actions
+
+  // The “graphql” function allows us to run arbitrary
+  // queries against this Gatsbygram's graphql schema. Think of
+  // it like Gatsbygram has a built-in database constructed
+  // from static data that you can run queries against.
+  //
+  // Post is a data node type derived from data/posts.json
+  // which is created when scraping Instagram. “allPostsJson”
+  // is a "connection" (a GraphQL convention for accessing
+  // a list of nodes) gives us an easy way to query all
+  // Post nodes.
+  return graphql(
+    `
+      {
+        allProductsJson(limit: 1000) {
+          edges {
+            node {
+              nid
+              title
+            }
+          }
+        }
+      }
+    `
+  ).then(result => {
+    if (result.errors) {
+      throw result.errors
+    }
+
+    // Create image post pages.
+    const productTemplate = path.resolve(`src/templates/product-page.js`)
+    // We want to create a detailed page for each
+    // Instagram post. Since the scraped Instagram data
+    // already includes an ID field, we just use that for
+    // each page's path.
+    _.each(result.data.allProductsJson.edges, edge => {
+      // Gatsby uses Redux to manage its internal state.
+      // Plugins and sites can use functions like "createPage"
+      // to interact with Gatsby.
+      createPage({
+        // Each page is required to have a `path` as well
+        // as a template component. The `context` is
+        // optional but is often necessary so the template
+        // can query data specific to each page.
+        path: `/products/${slug(edge.node.title)}/`,
+        component: slash(productTemplate),
+        context: {
+          nid: edge.node.nid,
+        },
+      })
+    })
+  })
+}
