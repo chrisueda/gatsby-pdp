@@ -1,3 +1,22 @@
+@font-face {
+  font-family: "Proxima Nova";
+  src: url("../shared/fonts/proximanova/proximanova-bold-webfont.eot"); /* IE9 Compat Modes */
+  src: url("../shared/fonts/proximanova/proximanova-bold-webfont.eot?#iefix")
+      format("embedded-opentype"),
+    /* IE6-IE8 */
+      url("../shared/fonts/proximanova/proximanova-bold-webfont.woff2")
+      format("woff2"),
+    /* Super Modern Browsers */
+      url("../shared/fonts/proximanova/proximanova-bold-webfont.woff")
+      format("woff"),
+    /* Pretty Modern Browsers */
+      url("../shared/fonts/proximanova/proximanova-bold-webfont.ttf")
+      format("truetype"),
+    /* Safari, Android, iOS */
+      url("../shared/fonts/proximanova/proximanova-bold-webfont.svg#svgFontName")
+      format("svg"); /* Legacy iOS */
+}
+
 html {
   font-family: sans-serif;
   -ms-text-size-adjust: 100%;
@@ -185,7 +204,7 @@ textarea {
   font: inherit;
 }
 html {
-  font: 112.5%/1.45em georgia, serif;
+  font: 112.5%/1.45em "Proxima Nova", sans-serif;
   box-sizing: border-box;
   overflow-y: scroll;
 }
@@ -200,7 +219,7 @@ html {
 }
 body {
   color: hsla(0, 0%, 0%, 0.8);
-  font-family: georgia, serif;
+  font-family: "Proxima Nova", sans-serif;
   font-weight: normal;
   word-wrap: break-word;
   font-kerning: normal;
@@ -620,3 +639,9 @@ pre tt:after {
     font-size: 100%;
   }
 }
+
+/* h2 {
+  background: linear-gradient(to bottom, #ff8a00, #da1b60);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+} */

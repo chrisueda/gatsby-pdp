@@ -1,7 +1,7 @@
 import * as PropTypes from "prop-types"
 import React from "react"
 import { graphql } from "gatsby"
-import ProductDetail from "../components/product-detail"
+import ProductHero from "../components/ProductHero"
 import Layout from "../components/layout"
 
 class ProductTemplate extends React.Component {
@@ -13,7 +13,7 @@ class ProductTemplate extends React.Component {
   render() {
     return (
       <Layout location={this.props.location}>
-        <ProductDetail product={this.props.data.productsJson} />
+        <ProductHero product={this.props.data.productsJson} />
       </Layout>
     )
   }
@@ -21,7 +21,7 @@ class ProductTemplate extends React.Component {
 
 export default ProductTemplate
 
-// The post template's GraphQL query. Notice the “id”
+// The post template's GraphQL query. Notice the “nid”
 // variable which is passed in. We set this on the page
 // context in gatsby-node.js.
 //
@@ -31,7 +31,21 @@ export const pageQuery = graphql`
   query($nid: Int) {
     # Select the post which equals this id.
     productsJson(nid: { eq: $nid }) {
-      ...ProductDetail_details
+      nid
+      title
+      statement_of_id
+      review_count
+      average_overall_rating
+      hero_image_background {
+        publicURL
+      }
+      hero_image {
+        childImageSharp {
+          fluid(maxWidth: 1200) {
+            ...GatsbyImageSharpFluid
+          }
+        }
+      }
     }
   }
 `

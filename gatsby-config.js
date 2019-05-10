@@ -1,16 +1,24 @@
 module.exports = {
   siteMetadata: {
     title: `Benefit Cosmetics`,
-    description: `Benefit Cosmetics PDP`,
-    author: `@gatsbyjs`,
+    description: `Gatsby Site with static JSON as data source`,
+    author: `@benefitcosmetics`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
+    `gatsby-plugin-emotion`,
     {
       resolve: `gatsby-source-filesystem`,
       options: {
         name: `images`,
         path: `${__dirname}/src/images`,
+      },
+    },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `data`,
+        path: `${__dirname}/src/data`,
       },
     },
     `gatsby-transformer-sharp`,
@@ -24,14 +32,14 @@ module.exports = {
         background_color: `#663399`,
         theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `src/images/gatsby-icon.png`, // This path is relative to the root of the site.
+        icon: `src/images/benefit-icon.png`, // This path is relative to the root of the site.
       },
     },
     `gatsby-transformer-json`,
     {
-      resolve: `gatsby-source-filesystem`,
+      resolve: `gatsby-transformer-json`,
       options: {
-        name: `products`,
+        typeName: `ProductsJson`, // a fixed string
         path: `${__dirname}/src/data/`,
       },
     },
