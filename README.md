@@ -1,4 +1,10 @@
 
+<p align="center">
+  <a href="https://www.benefitcosmetics.com/us/en">
+    <img alt="Benefit Cosmetics" src="./src/images/benefit-icon.png" width="60" />
+  </a>
+</p>
+
 <h1 align="center">
   Benefit Cosmetics PDP - Gatsby
 </h1>
