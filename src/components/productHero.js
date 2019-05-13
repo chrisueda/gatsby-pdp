@@ -20,7 +20,9 @@ class ProductHero extends React.Component {
       @media (min-width: 480px) {
         flex-direction: row;
         justify-content: space-around;
-        background: url(${hero_image_background.publicURL});
+        background: url(${hero_image_background
+          ? hero_image_background.publicURL
+          : ""});
         background-position: bottom center;
         background-repeat: repeat-y;
         background-size: cover;

@@ -3,8 +3,11 @@
   "title": "air patrol",
   "statement_of_id": "BB cream eyelid primer",
   "hero_image": "air-patrol-hero.png",
+  "hero_image_background": "bg-pattern-bigstripes-blue.gif",
   "average_overall_rating": "4.38",
   "review_count": 254,
   "price": 30,
-  "category": ["bestsellers"]
+  "category": [
+    "bestsellers"
+  ]
 }

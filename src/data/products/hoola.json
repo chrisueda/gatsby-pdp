@@ -2,9 +2,12 @@
   "nid": 1009,
   "title": "hoola matte bronzer",
   "statement_of_id": "matte bronzing powder",
-  "hero_image": "air-patrol-hero.png",
+  "hero_image": "02_Hoola_Lite_Styled.jpg",
   "average_overall_rating": "5",
   "review_count": 254,
   "price": 30,
-  "category": ["bestsellers", "face"]
+  "category": [
+    "bestsellers",
+    "face"
+  ]
 }
