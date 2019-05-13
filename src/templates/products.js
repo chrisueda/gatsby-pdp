@@ -2,7 +2,7 @@ import * as PropTypes from "prop-types"
 import React from "react"
 import { graphql } from "gatsby"
 import ProductHero from "../components/ProductHero"
-import Layout from "../components/layout"
+import Layout from "../components/Layout"
 
 class ProductTemplate extends React.Component {
   static propTypes = {

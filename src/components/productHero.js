@@ -1,6 +1,6 @@
 import React from "react"
 import Img from "gatsby-image"
-import colors from "./colors"
+import colors from "./Colors"
 import styled from "@emotion/styled"
 
 class ProductHero extends React.Component {

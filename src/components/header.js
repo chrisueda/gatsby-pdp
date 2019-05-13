@@ -1,7 +1,7 @@
 import { Link } from "gatsby"
 import PropTypes from "prop-types"
 import React from "react"
-import colors from "./colors"
+import colors from "./Colors"
 
 import styled from "@emotion/styled"
 // import { css } from "@emotion/core"
